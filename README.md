@@ -2,7 +2,7 @@
 the first of its kind, open sourced, community platform
 
 
-###*compartmentalized for security and to be less "monolithic"*
+*compartmentalized for security and to be less "monolithic"*
 *(compute code doesn't need to be on a server dedicated to memory, for example)*
 
 ## [anima-compute](./anima-compute)
