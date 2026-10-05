@@ -1,0 +1,15 @@
+[submodule "anima-compute"]
+	path = anima-compute
+	url = https://github.com/SevensRequiem/anima.onl-compute.git
+[submodule "anima-database"]
+	path = anima-database
+	url = https://github.com/SevensRequiem/anima.onl-database.git
+[submodule "anima-memory"]
+	path = anima-memory
+	url = https://github.com/SevensRequiem/anima.onl-memory.git
+[submodule "anima-shared"]
+	path = anima-shared
+	url = https://github.com/SevensRequiem/anima.onl-shared.git
+[submodule "anima-subnode"]
+	path = anima-subnode
+	url = https://github.com/SevensRequiem/anima.onl-subnode.git
